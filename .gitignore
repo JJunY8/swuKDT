@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# 이미 백준에 올린 폴더는 제외하겠습니다.
+beakjoon/
+loveorkill/
